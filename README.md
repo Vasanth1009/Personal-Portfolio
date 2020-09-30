@@ -2,5 +2,5 @@
 
 Download My Resume inside the link
 
-Link : https://vasanth1009.gitlab.io/Personal-Portfolio/
+Link : https://vasanth1009.github.io/Personal-Portfolio/
  
