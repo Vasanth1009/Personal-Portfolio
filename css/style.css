@@ -378,8 +378,8 @@ img {
               4px 4px 10px rgba(200, 200, 200, 0.1);
 }
 
-
 .skills_names {
+  position: relative;
   color: var(--first-color);
   font-size: var(--h2-font-size);
   display: flex;
@@ -389,6 +389,7 @@ img {
 }
 
 .skills_domain {
+  position: relative;
   display: grid;
   align-items: center;
   justify-content: center;
@@ -407,6 +408,7 @@ img {
   border-radius: 20%;
   text-shadow: 1px 4px 1px #fff, 0 -1px 1px rgb(37, 36, 36), 1px 4px 6px transparent;
 }
+
 .dotnet {
   cursor: pointer;
   width: 60px;
