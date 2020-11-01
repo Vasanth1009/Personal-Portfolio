@@ -505,6 +505,7 @@ img {
   max-width: 0 0 33.33%;
 } */
 .contact_list{
+  padding: 1rem 1rem;
   display: grid;
   text-align: center;
   align-items: center;
