@@ -500,10 +500,10 @@ img {
 }
 
 /* Contact */
-/*.contact_container .contact-info{
+.contact_container .contact-info{
   flex: 0 0 33.33%;
   max-width: 0 0 33.33%;
-} */
+}
 .contact_list{
   padding: 1rem 1rem;
   display: grid;
